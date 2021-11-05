@@ -8,12 +8,12 @@
 
     <title>Vue JS CRUD Operations in Laravel</title>
 
-    <link href="{{ asset('css/app.css') }}" type="text/css" rel="stylesheet" />
+    <link href="{{ mix('css/app.css') }}" type="text/css" rel="stylesheet" />
 </head>
 
 <body>
     <div id="app"></div>
-    <script src="{{ asset('js/app.js') }}" type="text/javascript"></script>
+    <script src="{{ mix('js/app.js') }}" type="text/javascript"></script>
 </body>
 
 </html>
